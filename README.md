@@ -1,2 +1,1 @@
-# Django-DDS-
-Diabetes Detection System (Django)
+Django Bus Management System
